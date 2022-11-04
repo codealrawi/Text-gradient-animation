@@ -1,1 +1,1 @@
-# ext-gradient-animation
+# Text-gradient-animation
